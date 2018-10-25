@@ -1,3 +1,3 @@
 # ML-Assignments
 
-Solutions for the weekly Assignments in the Pattern Recognition/Machine Learning course in the Wintersemester 18/19 at Freie Universität Berlin, for which I am the Teaching Assistant.
+Solutions for the weekly assignments for Pattern Recognition/Machine Learning (WS 18/19) at Freie Universität Berlin, for which I am the TA.
