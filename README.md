@@ -7,3 +7,4 @@ Assignment 2: Linear Regression
 Assignment 3: K-Means and Expectation Maximization  
 Assignment 4: Principal Component Analysis  
 Assignment 5: Entropy and KL-Divergence  
+Assignment 6: Decision Trees and Random Forests  
